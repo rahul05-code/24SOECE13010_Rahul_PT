@@ -10,17 +10,17 @@ namespace _24SOECE13010_Rahul_PT
     {
         static void Main(string[] args)
         {
-            int num, res, i;
-            Console.WriteLine("Enter number :");
-            num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter a number:");
 
-            i = 1;
-            while (i <= 10)
+            int num = Console.ReadLine();
+            for (int i = num; i <= 10; i++)
             {
-                res = num * i;
-                Console.WriteLine("{0} * {2} = {1}",num,res,i);
-                i++;
-
+                for(int j = i; j <= 10; j++)
+                {
+                    int k = i * j;
+                    Console.WriteLine(i + "*" + j + " = "+ k);
+                }
+                Console.ReadLine();
             }
         }
     }
