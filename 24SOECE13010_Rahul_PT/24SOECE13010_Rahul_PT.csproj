@@ -43,13 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="addition.cs" />
     <Compile Include="no.cs" />
+    <Compile Include="outdemo.cs" />
     <Compile Include="pattern.cs" />
     <Compile Include="pattern2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="q17.cs" />
     <Compile Include="starhash.cs" />
+    <Compile Include="swapmethod.cs" />
     <Compile Include="table.cs" />
     <Compile Include="test.cs" />
     <Compile Include="test1.cs" />
