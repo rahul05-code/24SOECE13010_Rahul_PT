@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="addition.cs" />
+    <Compile Include="constructor.cs" />
+    <Compile Include="methodoverloading.cs" />
     <Compile Include="no.cs" />
     <Compile Include="outdemo.cs" />
     <Compile Include="pattern.cs" />
