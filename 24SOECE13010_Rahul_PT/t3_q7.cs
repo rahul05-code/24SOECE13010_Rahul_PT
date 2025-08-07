@@ -25,7 +25,7 @@ namespace _24SOECE13010_Rahul_PT
         }
          
     }
-    internal class t2_q7
+    internal class t3_q7
     {
         public static void Main(string[] args)
         {
