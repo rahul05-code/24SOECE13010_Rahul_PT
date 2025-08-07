@@ -23,7 +23,7 @@ namespace _24SOECE13010_Rahul_PT
             get { return name; }
             set { name = value; }
         }
-
+         
     }
     internal class t2_q7
     {
