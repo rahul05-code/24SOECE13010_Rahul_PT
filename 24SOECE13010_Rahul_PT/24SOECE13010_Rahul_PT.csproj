@@ -56,6 +56,7 @@
     <Compile Include="q17.cs" />
     <Compile Include="starhash.cs" />
     <Compile Include="swapmethod.cs" />
+    <Compile Include="t2_q7.cs" />
     <Compile Include="table.cs" />
     <Compile Include="test.cs" />
     <Compile Include="test1.cs" />
