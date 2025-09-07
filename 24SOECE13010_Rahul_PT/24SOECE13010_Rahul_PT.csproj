@@ -55,6 +55,7 @@
     <Compile Include="property.cs" />
     <Compile Include="q17.cs" />
     <Compile Include="starhash.cs" />
+    <Compile Include="staticclass.cs" />
     <Compile Include="swapmethod.cs" />
     <Compile Include="t3_q5.cs" />
     <Compile Include="t3_q6.cs" />
